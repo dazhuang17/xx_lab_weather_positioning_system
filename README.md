@@ -1,0 +1,2 @@
+# xx_lab_weather_positioning_system
+serial;pyside;database
