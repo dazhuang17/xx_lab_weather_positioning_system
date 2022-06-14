@@ -250,7 +250,7 @@ class Stats:
 
 if __name__ == '__main__':
     app = QApplication([])
-    app.setWindowIcon(QIcon('private.png'))
+    app.setWindowIcon(QIcon('./private.png'))
     global_var._init()
     stats = Stats()
     stats.ui.show()
