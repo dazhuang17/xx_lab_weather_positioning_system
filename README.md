@@ -17,9 +17,9 @@
 **note：该版本未适配于Ubuntu系统**
 
 ## 系统介绍
-- 硬件说明。
-- 数据库配置。
-- 系统测试。
-- 系统常见问题。
+- [硬件说明](https://github.com/dazhuang17/xx_lab_weather_positioning_system/blob/main/details/hw_details.md)。
+- [数据库配置](https://github.com/dazhuang17/xx_lab_weather_positioning_system/blob/main/details/db_config.md)。
+- [系统测试](https://github.com/dazhuang17/xx_lab_weather_positioning_system/blob/main/details/system_test.md)。
+- [系统常见问题](https://github.com/dazhuang17/xx_lab_weather_positioning_system/blob/main/details/Q&A.md)。
 
 
