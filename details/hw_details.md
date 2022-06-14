@@ -1,4 +1,4 @@
-# xx_lab_weather_positioning_system
+# 硬件说明
 
 ## 系统作用
 - 本系统包括北斗定位模块、气象百叶窗以及气象定位系统软件。  
